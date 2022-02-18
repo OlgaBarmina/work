@@ -39,25 +39,15 @@ theme: metropolis
 
 Основное уравнение:
 
-$$ \frac{dr}{d\theta} = \frac{r}{\sqrt(25.01)} $$
+$\frac{dr}{d\theta} = \frac{r}{\sqrt(25.01)}$
 
 Начальные условия: 
 
-$ \left\{ 
-\begin{array}{c}
-\theta = 0 \\ 
-r = \frac{10k}{61} \\ 
-\end{array}
-\right.$
+$\left\{\begin{array}{c}\theta = 0\\ r = \frac{10k}{61}\\\end{array}\right.$
 
 или 
 
-$ \left\{ 
-\begin{array}{c}
-\theta = -\pi \\ 
-r = \frac{10k}{41} \\
-\end{array}
-\right.$
+$\left\{\begin{array}{c}\theta = -\pi\\ r = \frac{10k}{41}\\\end{array}\right.$
 
 # Результат выполнения лабораторной работы
 

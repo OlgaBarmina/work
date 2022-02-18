@@ -5,8 +5,8 @@ function dr=f(tetha, r)
 dr=r/sqrt(25.01);
 endfunction;
 //начальные условия в случае
-r0=10*s/41;
-tetha0=-%pi;
+r0=10*s/61;
+tetha0=0;
 tetha=0:0.01:2*%pi;
 r=ode(r0,tetha0,tetha,f);
 //функция, описывающая движение лодки браконьеров
