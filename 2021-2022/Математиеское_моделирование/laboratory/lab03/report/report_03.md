@@ -11,9 +11,6 @@ date: 2022 Feb 22th
 lang: ru-RU
 toc-title: "Содержание"
 
-# Bibliography
-csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
-
 # Pdf output format
 toc: true # Table of contents
 toc_depth: 2
